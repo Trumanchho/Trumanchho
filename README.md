@@ -1,13 +1,12 @@
 # Hi there 👋
 My name is Truman and I am a 3rd year Computer Science Major at Simon Fraser University.
 
-# 💫 About Me:
-✏️ I'm currently studying ... 
+# ✏️ I'm currently studying ... 
 - Biomedical Computing CMPT 340 @ SFU
 - Introduction to Artificial Intelligence CMPT 310 @ SFU
 - Computer Vision CMPT 412 @ SFU
 
-🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 - React
 - Flask
 - PyTorch
