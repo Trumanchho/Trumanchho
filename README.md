@@ -7,7 +7,7 @@ My name is Truman and I am a 3rd year Computer Science Major at Simon Fraser Uni
 - Computer Vision CMPT 412 @ SFU
 
 ## 💻 I'm currently working on ...
-- A Musicla Notation Optical Mark Recognition (OMR) Tool. Check it out [here!](https://github.com/Trumanchho/omr-jianpu-melody-generator)
+- A Musical Notation Optical Mark Recognition (OMR) Tool. Check it out [here!](https://github.com/Trumanchho/omr-jianpu-melody-generator)
 
 ## 🌱 I’m currently learning ...
 - React
