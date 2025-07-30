@@ -8,7 +8,6 @@ My name is Truman and I am a 3rd year Computer Science Major at Simon Fraser Uni
 -->
 ## 💻 I'm currently working on ...
 - A Musical Notation Optical Mark Recognition (OMR) Tool. Check it out [here!](https://github.com/Trumanchho/omr-jianpu-melody-generator)
-- A cross-platform app to that guides users to learn how to play the guitar 🎸 (React-native, Expo)
 
 ## 🌱 I’m currently learning ...
 - React
