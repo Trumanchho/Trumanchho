@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Truman and I am a 3rd year Computer Science Major at Simon Fraser University.
+My name is Truman and I am a 4th year Computer Science Major at Simon Fraser University.
 <!--
 ## ✏️ I'm currently studying ... 
 - Biomedical Computing CMPT 340 @ SFU
