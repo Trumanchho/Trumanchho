@@ -1,17 +1,16 @@
 # Hi there 👋
 My name is Truman and I am a 4th year Computer Science Major at Simon Fraser University.
-<!--
+
 ## ✏️ I'm currently studying ... 
-- Biomedical Computing CMPT 340 @ SFU
-- Introduction to Artificial Intelligence CMPT 310 @ SFU
-- Computer Vision CMPT 412 @ SFU
--->
+- Geometric Modelling in Computer Graphics CMPT 464 @ SFU
+- Intellegent Systems CMPT 417 @ SFU
+- Computational Biology CMPT 441 @ SFU
+
 ## 💻 I'm currently working on ...
-- A Musical Notation Optical Mark Recognition (OMR) Tool. Check it out [here!](https://github.com/Trumanchho/omr-jianpu-melody-generator)
+- A Musical Notation Optical Mark Recognition (OMR) Tool for Jianpu. Check it out [here!](https://github.com/Trumanchho/omr-jianpu-melody-generator)
 
 ## 🌱 I’m currently learning ...
 - React
-- Expo
 - Flask
 - PyTorch
 
